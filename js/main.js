@@ -1,7 +1,6 @@
 function randomFood(){
     var index = Math.floor(Math.random() * recipes.length);
 
-    console.log(index)
 
     var more = ""
 
@@ -611,3 +610,4 @@ const recipes = [
         ]
     }
 ];
+

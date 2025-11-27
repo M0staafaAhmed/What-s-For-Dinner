@@ -141,6 +141,10 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+.section-h{
+    height: 400px;
+}
 /* Start nav */
 .navbar-toggler{
     border: none;
@@ -174,4 +178,5 @@ body{
     scale: 1.06;
 }
 /* End main */
+
 
